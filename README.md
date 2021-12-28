@@ -18,6 +18,9 @@ The project is compatible with the 2021.09 package pick for Coq 8.13 of
 [Coq Platform release 2021.09.0](https://github.com/coq/platform/releases/tag/2021.09.0),
 so you can obtain all dependencies by installing that Coq Platform variant.
 
+The simplest way of working with this project without needing to install anything is doing so online, by clicking here:
+[![Open in Papillon](https://papillon.expert/github-badge.svg)](https://papillon.expert/projects/github/runtimeverification/vlsm/master)
+
 To instead install dependencies manually via [opam](https://opam.ocaml.org/doc/Install.html), do:
 
 ```shell
